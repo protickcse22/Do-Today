@@ -1,2 +1,2 @@
 # Do-Today
-This todo management app will use jetpack library like compose, room. It also follow clear architecture pattern.
+This todo management app will use the jetpack library like compose, and room. It also follows the clean architecture pattern.
